@@ -1,0 +1,51 @@
+body{
+background-image: url("../jpg/oranges.jpg");
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: white;
+}
+
+.centered-list{
+    width: 75%;
+    margin: auto;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    list-style-position: inside;
+}
+
+img{
+    width: 50%;
+    display: block;
+    border: solid 3px rgba(245, 89, 5, 0.903);
+    padding: 3px;
+    margin:auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h1{
+    width: 100%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    text-align: left;
+    color: white;
+}
+
+
+h4{
+    width: 70%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    text-align: left;
+    color: white;
+    border: white dotted 2px;
+}
+
+
+a{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: right;
+    color: orangered;
+
+}
+
